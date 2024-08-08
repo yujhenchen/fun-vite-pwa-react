@@ -38,8 +38,10 @@
 PWA Vite React TypeScript ... 
 
 
-### Feautres
-1. ...
+### Features
+1. Online user count
+2. Join private rooms
+3. Common components like input text, text area, radio button, dropdown list, Google Map position
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
